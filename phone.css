@@ -1,0 +1,123 @@
+
+/* navbar  */
+.first span {
+    font-size: .8rem;
+}
+
+
+#logo {
+    font-size: 1.1rem; 
+}
+
+
+#head button {
+    width: 75px;
+    padding: 5px; 
+    font-size: .8rem;
+}
+/* main section */ 
+
+.first span {
+    margin-left: 5px;
+    margin-top: 2px;
+    color: rgb(56, 54, 54); 
+    font-weight: 600;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+
+.container .image {
+    width: 150px;
+    height: 150px;
+} 
+ 
+.container .item{
+     padding: 30px;
+
+    width: 50%;
+}
+.item input {
+   margin-bottom: 9px; 
+   width: 145px;
+}
+
+.item button {
+  width: 170px;
+}
+
+
+/* join section */
+#join {
+    /* margin-top: 0px; */
+     display: flex;
+     justify-content: center; 
+     width: 100%;  
+     flex-wrap: wrap;
+ }
+
+
+
+
+/* footer */
+
+footer {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0) ; 
+    width: 100%; 
+    margin: auto;
+}
+
+#foot {
+    height: 270px; 
+}
+
+#foot h4 {
+    font-size: 0.8rem;
+}
+
+#foot p {
+    font-size: .5rem; 
+    line-height: 7px;
+}
+#pp {
+    margin-top: 28px;
+}
+#foot h3 {
+    font-size: 1rem;
+    margin-bottom: -8px;
+}
+.foot1 {
+    margin-left: 34px;
+
+}
+.foots {
+    width: 20%;
+    margin: 49px 29px;
+}
+
+.foots p a img {
+    height: 21px;
+    width: 26px;
+}
+
+.reser {
+    font-size: .5rem;
+}
+
+.foots {
+    margin: 33px 10px;
+}
+
+#foot h4 {
+    font-size: .7rem;
+}
+
+.fa {
+    font-size: 13px;
+
+}
+    
